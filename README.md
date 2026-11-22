@@ -19,7 +19,7 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
     </td>
     <td align="center" width="140">
       <a href="https://github.com/cyrilvancauter" title="Van Cauter Cyril">
-        <img src="https://avatars.githubusercontent.com/u/248362294?v=4" width="96" height="96" alt="Avatar de Van Cauter Cyril" style="border-radius: 20%;" />
+        <img src="http://anto-cldl.be/IS3-PFP/cyril.jpg" width="96" height="96" alt="Avatar de Van Cauter Cyril" style="border-radius: 20%;" />
       </a>
       <br />
       <sub><b>Van Cauter Cyril</b></sub>
@@ -28,7 +28,7 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
     </td>
     <td align="center" width="140">
       <a href="https://github.com/ryandodo05" title="Kraus Ryan">
-        <img src="https://avatars.githubusercontent.com/u/188335310?v=4" width="96" height="96" alt="Avatar de Kraus Ryan" style="border-radius: 20%;" />
+        <img src="http://anto-cldl.be/IS3-PFP/ryan.jpg" width="96" height="96" alt="Avatar de Kraus Ryan" style="border-radius: 20%;" />
       </a>
       <br />
       <sub><b>Kraus Ryan</b></sub>
@@ -37,7 +37,7 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
     </td>
     <td align="center" width="140">
       <a href="https://github.com/Mariam-HEL" title="Tatebong Tsomelou Wilson">
-        <img src="https://avatars.githubusercontent.com/u/237961460?v=4" width="96" height="96" alt="Avatar de Tatebong Tsomelou Wilson" style="border-radius: 20%;" />
+        <img src="http://anto-cldl.be/IS3-PFP/jaures.jpg" width="96" height="96" alt="Avatar de Tatebong Tsomelou Wilson" style="border-radius: 20%;" />
       </a>
       <br />
       <sub><b>Tatebong Tsomelou Wilson</b></sub>
@@ -85,6 +85,6 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
   </tr>
 </table>
 
----
+--- 
 
 > **Mise à jour :** J'ajouterai les autres membres de la classe au fur et à mesure qu'ils apparaîtront dans les contributeurs, je promets.

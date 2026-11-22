@@ -37,7 +37,7 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
     </td>
     <td align="center" width="140">
       <a href="https://github.com/Mariam-HEL" title="Tatebong Tsomelou Wilson">
-        <img src="http://anto-cldl.be/IS3-PFP/jaures.jpg" width="96" height="96" alt="Avatar de Tatebong Tsomelou Wilson" style="border-radius: 20%;" />
+        <img src="http://anto-cldl.be/IS3-PFP/jaures.png" width="96" height="96" alt="Avatar de Tatebong Tsomelou Wilson" style="border-radius: 20%;" />
       </a>
       <br />
       <sub><b>Tatebong Tsomelou Wilson</b></sub>

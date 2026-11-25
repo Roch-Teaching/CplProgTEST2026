@@ -89,4 +89,4 @@ Répertoire des membres et contributeurs de la promotion **IS.3 (2026)**.
 
 > **Mise à jour :** J'ajouterai les autres membres de la classe au fur et à mesure qu'ils apparaîtront dans les contributeurs, je promets.
 
-> **Avertissement :** Faites attention à vous ceux qui ont pas de photo de profile, si je trouve des photos de vous, je vous affiche.
+> **Avertissement :** Faites attention à vous ceux qui ont pas de photo de profil, si je trouve des photos de vous, je vous affiche.
